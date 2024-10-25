@@ -9,7 +9,6 @@
 ### Team Members
 - Team Lead: [Sanjo V J] - [AISAT]
 - Member 2: [Hilesh Babu HS ] - [AISAT
-- Member 3: [Ameen T A ] - [AISAT]
 @@ -90,4 +92,10 @@ For Hardware:
 - [Ameen T A]: [support]
 
