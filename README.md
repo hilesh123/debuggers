@@ -4,13 +4,13 @@
 [Banner Image - Will be provided]
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [DEBUGGERS]
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
+- Team Lead: [Sanjo V J] - [AISAT]
+- Member 2: [Hilesh Babu HS ] - [AISAT]
 @@ -90,4 +92,10 @@ For Hardware:
-- [Name 3]: [Specific contributions]
+- [Ameen T A]: [support]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects
